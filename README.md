@@ -21,8 +21,6 @@ I am an undergraduate Computer science student at Saint Agustin National Univers
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MaryoriHilares&icon=4&color=5)](https://visitcount.itsvg.in)
