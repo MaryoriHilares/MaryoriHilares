@@ -5,7 +5,7 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am an undergraduate Computer science student at Saint Agustin National University. C++, Python, Javascript, and HTML are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.<br>* **I am interested in Web designing, IA, and computer graphics**<br>- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br><br>- Outside tech, 📖 I love to do crafts, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.<br>- 📫 Reach out to me at: <a href="mhilaresa@unsa.edu.pe">mhilaresa@unsa.edu.pe</a>
+I am an undergraduate Computer science graduate at Saint Agustin National University. C++, Python, Javascript, and HTML are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.<br>* **I am interested in Web designing, IA, and computer graphics**<br>- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br><br>- Outside tech, 📖 I love to do crafts, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.<br>- 📫 Reach out to me at: <a href="mhilaresa@unsa.edu.pe">mhilaresa@unsa.edu.pe</a>
 
 
 # 💻 Tech Stack:
